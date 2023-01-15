@@ -16,6 +16,6 @@ brew install lcm
 
 ## Running the examples
 
-The examples are derived from the ones from here: [lcm-proj.github.io/tutorial_general](https://lcm-proj.github.io/tutorial_general.html).
+The examples are derived from the ones from here: [lcm-proj.github.io/tutorial_general](https://lcm-proj.github.io/tutorial_general.html). To compile the example, **take a look at the [Makefile](Makefile)**. you can run the commands via `make <command-name>`.
 
-@ekviamn add here
+@ekviamn add the full example here.
